@@ -1,7 +1,4 @@
-// use these variables in your JSX (update them with your own name and city!)
-const name = "Liza";
-const city = "New York";
-
-const image = "https://i.imgur.com/mV8PQxj.gif";
-
-export { name, city, image };
+// src/data/user.js
+export const name = "Your Name"; // Replace with your actual name
+export const city = "Your City"; // Replace with your actual city
+export const image = "https://i.imgur.com/mV8PQxj.gif"; // Ensure the image URL is correct
